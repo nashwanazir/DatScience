@@ -1,2 +1,2 @@
 # DatScience
-This Project is to Analyze Stock Data.
+This Project extracts the revenue data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the revenue.
